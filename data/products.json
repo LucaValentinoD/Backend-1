@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Actualizada River Plate 2025",
+    "descripcion": "Camiseta oficial del Club Atlético River Plate, temporada 2024. Tejido transpirable y diseño clásico con las tres tiras.",
+    "precio": 19999,
+    "thumbnail": "https://example.com/camiseta2024.jpg",
+    "categoria": "Ropa",
+    "stock": 10,
+    "code": 6
+  },
+  {
+    "id": 2,
+    "nombre": "Short Oficial River Plate 2025",
+    "descripcion": "Short oficial de River Plate, ideal para entrenamientos y partidos. Con el escudo bordado.",
+    "precio": 9999,
+    "thumbnail": "https://example.com/short2024.jpg",
+    "categoria": "Ropa",
+    "stock": 8,
+    "code": 4
+  },
+  {
+    "id": 3,
+    "nombre": "Short Oficial River Plate 2025",
+    "descripcion": "Short oficial de River Plate, ideal para entrenamientos y partidos. Con el escudo bordado.",
+    "precio": 9999,
+    "thumbnail": "https://example.com/short2024.jpg",
+    "categoria": "Ropa",
+    "stock": 8,
+    "code": 7
+  }
+]
