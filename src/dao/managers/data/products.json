@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0237d298-91d7-4b29-b6aa-84c9d939544e",
+    "nombre": "Campera River Plate Historica 2025",
+    "descripcion": "Campera oficial de River Plate en color rojo con detalles en blanco y negro.",
+    "precio": 29999,
+    "thumbnail": "https://example.com/campera.jpg",
+    "categoria": "Ropa",
+    "stock": 6,
+    "code": 5
+  },
+  {
+    "id": "63921331-09da-4a82-84da-bb957510629d",
+    "nombre": "Buzo River Plate 2024",
+    "descripcion": "Buzo oficial de River Plate, ideal para los días fríos. Diseño exclusivo de la temporada 2024.",
+    "precio": 24999,
+    "thumbnail": "https://example.com/buzo2024.jpg",
+    "categoria": "Ropa",
+    "stock": 7,
+    "code": 4
+  }
+]
